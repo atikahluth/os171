@@ -1,0 +1,2 @@
+this week task is about exercise using badak server. this is my first time using commandline to connect with my github account and create some files or folders using command line too.
+#atikah_luthfiana
