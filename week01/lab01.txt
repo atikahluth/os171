@@ -20,3 +20,5 @@ drwxr-xr-x  2 atikah.luthfiana StafCS 4096 Feb 17 16:45 week09
 drwxr-xr-x  2 atikah.luthfiana StafCS 4096 Feb 17 16:45 week10
 drwxr-xr-x  2 atikah.luthfiana StafCS 4096 Feb 17 16:46 xtra
 /home/fasilkom/mahasiswa/a/atikah.luthfiana/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 17 Feb 2017 at 17:36:53
