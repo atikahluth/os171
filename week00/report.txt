@@ -1,2 +1,2 @@
-last task was about creating new github account and creat a new repository on github #atikah_luthfiana
-i write this line using nano version 
+last week task was about creating a new github account and creating a new repository on github #atikah_luthfiana
+this line is typed using nano version
