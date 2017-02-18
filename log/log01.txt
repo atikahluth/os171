@@ -1,0 +1,11 @@
+w01-170214-13-LR-About: HKI and Scripting, From: Lecturer
+w01-170214-13-LR-About: HKI and Scripting, From: Lecturer
+w01-170214-14-LR-About: HKI and Scripting, From: Lecturer
+w01-170216-09-LR-About: Scripting, From: Scripting 2 and Scripting 3 Slides
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-13-LR-About: Watching demo from lecturer
+w01-170216-14-LR-About: Scripting adn watching demo, From: Lecturer
+w01-170217-16-PS-lab week01 about basic scripting
+w01-170217-16-PS-Lab week01 about basic scripting
+w01-170217-17-PS-Lab week01 about basic scripting
+
