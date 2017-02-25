@@ -1,0 +1,14 @@
+w02-170221-13-LR-About: Security and Protection, From: Lecturer
+w02-170221-13-LR-About: Security and Protection, From: Lecturer
+w02-170221-14-LR-About: Security and Protection, From: Lecturer
+w02-170223-07-LR-About: C Programming; Hello World, int and char, strings, pointer, if then else, for loop, struct, functions, From: Videos in Arsip
+w02-170223-08-LR-About: C Programming; Hello World, int and char, strings, pointer, if then else, for loop, struct, functions, From: Videos in Arsip
+w02-170223-08-LR-About: C Programming; Hello World, int and char, strings, pointer, if then else, for loop, struct, functions, From: Videos in Arsip
+w02-170223-13-LR-About: C Programming Demo and Class Exercise, From: Lecturer
+w02-170223-13-LR-About: C Programming Demo and Class Exercise, From: Lecturer
+w02-170223-14-LR-About: C Programming Demo and Class Exercise, From: Lecturer
+w02-170223-19-LS-About: Encrypting, and digital signature using GnuPg
+w02-170223-20-LS-About: Encrypting, and digital signature using GnuPg
+w02-170223-20-LS-About: Encrypting, and digital signature using GnuPg
+w02-170223-21-LS-About: Encrypting, and digital signature using GnuPg
+w02-170226-08-LS-About: Log task
