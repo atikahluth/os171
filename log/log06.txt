@@ -1,0 +1,7 @@
+week05-170411-13-PS-About: Fork exercise in class, answering the http://rms46.vlsm.org/2/201.pdf file, question no. 1 in paper
+week06-170411-13-PS-About: Fork exercise in class, answering the http://rms46.vlsm.org/2/201.pdf file, question no. 1 in paper
+week06-170411-14-PS-About: Fork exercise in class, answering the http://rms46.vlsm.org/2/201.pdf file, question no. 2 in paper
+week06-170415-00-PS-About: Fork
+week06-170415-01-PS-About: Fork
+week06-170415-01-PS-About: Fork
+week06-170415-02-PS-About: Fork
