@@ -1,0 +1,20 @@
+week05-170418-13-LR-About: Synchronization (critical section, peterson's solution, lock, and semaphore), From: Lecturer
+week05-170418-13-LR-About: Synchronization (critical section, peterson's solution, lock, and semaphore), From: Lecturer
+week05-170418-14-LR-About: Synchronization (critical section, peterson's solution, lock, and semaphore), From: Lecturer
+week05-170420-13-LR-About: Synchronization (bounder-buffer problem, reader-writer problem, dining philosophers problem, and monitors)
+week05-170420-13-PS-About: Synchronization exercise in class
+week05-170420-14-PS-About: Synchronization exercise in class
+week05-170421-16-PS-About: Synchronization (Lab)  
+week05-170421-17-PS-About: Synchronization (Lab)  
+week05-170422-07-PS-About: Synchronization (Lab)
+week05-170422-07-PS-About: Synchronization (Lab)
+week05-170422-09-PS-About: Synchronization (Lab)
+week05-170422-09-PS-About: Synchronization (Lab)
+week05-170422-10-PS-About: Synchronization (Lab)
+week05-170422-10-PS-About: Synchronization (Lab)
+week05-170422-11-PS-About: Synchronization (Lab)
+week05-170422-11-PS-About: Synchronization (Lab)
+week05-170422-13-PS-About: Synchronization (Lab)
+week05-170422-13-PS-About: Synchronization (Lab)
+week05-170422-14-PS-About: Synchronization (Lab)
+week05-170422-14-PS-About: Synchronization (Lab)
