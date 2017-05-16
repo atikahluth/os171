@@ -1,0 +1,7 @@
+Github Account: atikahluth
+URL Blog: http://atikahluthfiana.blogspot.com/2017/05/dining-philosophers-problem.html
+URL Video: http://youtu.be/WX95OfXVtZQ (7:24)
+Video Author:  Easy Engineering Classes
+Pemetaan: week07
+Revisi Pertama: 15 Mei 2017
+Revisi Terakhir: 16 Mei 2017
