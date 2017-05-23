@@ -1,0 +1,13 @@
+w10-170509-13-PS-Bahas Kuis, about: Synchonization, Schedulling, Socket  
+w10-170509-13-PS-Bahas Kuis, about: Synchonization, Schedulling, Socket
+w10-170509-14-PS-Bahas Kuis, about: Synchonization, Schedulling, Socket
+w10-170516-22-LR-About: Critical Section, From: https://youtu.be/wJG2c2sYkEM
+w10-170516-22-PS-Lab 09 Ulasan 1
+w10-170516-23-LR-About: Dining Philosophers Problem, From: http://youtu.be/WX95OfXVtZQ
+w10-170516-23-LR-About: Dining Philosophers Problem, From: http://youtu.be/WX95OfXVtZQ
+w10-170517-24-PS-Lab 09 Ulasan 1 
+w10-170517-24-LR-About: Computer Security Basic Principles, From: http://youtu.be/6p_q_Xp--Rs
+w10-170517-01-PS-Lab 10 Ulasan 2  
+w10-170518-13-LR-About: Cloud Computing  
+w10-170518-13-LR-About: Cloud Computing
+w10-170518-14-LR-About: Cloud Computing
